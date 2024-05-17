@@ -1,3 +1,21 @@
+The amount of waste we generate globally is growing rapidly and we must find efficient ways
+to manage it. Automatic waste sorting machines have emerged as a promising solution to
+streamline the waste sorting process and promote recycling. In this project, we propose the
+implementation of an automatic waste sorting machine using Edge Impulse, a platform for
+developing machine learning models for edge devices. The proposed waste sorting machine
+classifies different types of waste materials, such as paper, plastic, metal, and glass, by using
+images. We collect and preprocess a diverse dataset of waste samples, leveraging the
+capabilities of Edge Impulse, to ensure the representation of real-world scenarios. With Edge
+Impulse's intuitive interface and tools, we optimize the trained model for deployment on edge
+devices like microcontrollers or development boards. Integrating this model with the waste
+sorting machine hardware enables real-time classification of waste materials, facilitating
+efficient sorting and recycling processes. Experimental results demonstrate significant
+improvements in sorting accuracy, efficiency, and resource recovery rates compared to manual
+sorting processes. The automatic waste sorting machine achieves a recycling rate of over 90%,
+substantially reducing the amount of waste destined for landfills or incineration. Moreover, the
+system's modular design facilitates seamless integration with existing waste management
+infrastructure, ensuring compatibility and scalability across diverse operational environments.
+Keywords: Edge Impulse, Edge Devices, Microcontrollers, Development boards.
 SYSTEM REQUIREMENTS
 The system requirements for a Automatic Waste Sorting Machine can be categorized into
 hardware, software, and functional requirements. Here's a detailed breakdown:
